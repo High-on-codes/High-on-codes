@@ -22,7 +22,7 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: High-on-codes/commit-city/profile@v1
+      - uses: High-on-codes/commit-city/profile@main
         with:
           out: _site
       - uses: actions/configure-pages@v5

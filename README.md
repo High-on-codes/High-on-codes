@@ -1,6 +1,6 @@
 # Hi, I'm N 👋
 
-Every commit I make adds a building to this city. It rebuilds every day from my public repositories.
+Every commit I make adds a building to this city. Each public repository is a district, and the city rebuilds every day.
 
 [![My Commit City](https://high-on-codes.github.io/High-on-codes/city.svg)](https://high-on-codes.github.io/High-on-codes/)
 
